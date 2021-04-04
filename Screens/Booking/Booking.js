@@ -27,6 +27,7 @@ export default class Booking extends Component {
                         <View style={styles.ViewCalendar}>
                             <Calendar />
                         </View>
+                        <Text>Saad and Joo</Text>
                     </View>
                 </ScrollView>
             </View>
